@@ -11,9 +11,6 @@ A collection of C++ programs—games, simulations, utilities, and more—showcas
 - [Prerequisites](#prerequisites)
 - [Installation & Running](#installation--running)
 - [Programs & Descriptions](#programs--descriptions)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -25,16 +22,27 @@ Welcome! This repository features a variety of standalone C++ programs that span
 
 ## Project Structure
 ├── bank.cpp
+
 ├── cgpacalculator.cpp
+
 ├── guessnumbergame.cpp
+
 ├── hangman.cpp
+
 ├── loginandregistration.cpp
+
 ├── music.cpp
+
 ├── scientificcalculator.cpp
+
 ├── searchengine.cpp
+
 ├── stocktrading.cpp
+
 ├── stonepaperscissor.cpp
+
 ├── studentdatabase.cpp
+
 └── textbasedadventure.cpp
 
 
@@ -81,7 +89,4 @@ Welcome! This repository features a variety of standalone C++ programs that span
 | `textbasedadventure.cpp`   | Choose-your-path text adventure game                          |
 
 ---
-
-
-Each `.cpp` file in the root directory represents an independent program. Here's a quick overview:
 
