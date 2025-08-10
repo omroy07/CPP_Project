@@ -2,7 +2,7 @@
 
 A collection of C++ programs—games, simulations, utilities, and more—showcased in one repository. Designed to demonstrate foundational programming skills and logical problem solving.
 
----
+---   
 
 ## Table of Contents
 
